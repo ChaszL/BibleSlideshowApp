@@ -14,7 +14,7 @@ A Windows desktop app for projecting Bible verses during a sermon. You run the c
 
 ## Download
 
-1. Go to the [Releases page](https://github.com/ChaszL/BibleSlideshowApp/releases/latest) and download `BibleSlideshow.exe`.
+1. Go to the [Releases page](https://github.com/ChaszL/BibleSlideshowApp/releases/latest) and download `BibleSlideshow.exe`. The sample Bible `.txt` files are on the same page.
 2. Get a Bible text file. Sample Bibles are already included in the source code, so you can [use those](#sample-bibles-included) or download one from [OpenBible.com](https://openbible.com).
 3. Double-click `BibleSlideshow.exe` to start it. There's nothing to install.
 
@@ -54,8 +54,9 @@ The source code includes two ready-to-use Bibles in the [`BibleSlideshow/bible_t
 | [`OpenBible.com_kjv.txt`](BibleSlideshow/bible_txts/OpenBible.com_kjv.txt) | King James Version (KJV) |
 | [`OpenBible.com_akjv.txt`](BibleSlideshow/bible_txts/OpenBible.com_akjv.txt) | American King James Version (AKJV) |
 
-The `.exe` download doesn't include them. You can get them either way:
+You can get them any of these ways:
 
+- **From the release:** They're attached next to the `.exe` on the [Releases page](https://github.com/ChaszL/BibleSlideshowApp/releases/latest).
 - **One file:** Click the file name above, then click the **Download raw file** button (the down-arrow icon) at the top right of the file view.
 - **Everything:** On the repo's main page, click the green **Code** button, choose **Download ZIP**, and look in `BibleSlideshow/bible_txts/`.
 
